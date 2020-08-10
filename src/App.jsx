@@ -8,7 +8,7 @@ class App extends React.Component {
 
     this.state = {
       buttonClicked: "",
-      assignments: [] /*Below this line, add the students state variable*/,
+      assignments: []<h3 className="Box-title d-flex flex-justify-center">GradeBook</h3>
       grades: {}
     };
 
